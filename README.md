@@ -5,7 +5,7 @@ Early warnings will enable timely interventions like increased support or worklo
 Data will be collected, cleaned, and prepared for modeling. Various machine learning techniques will be explored to build the best predictive model. 
 The model's performance will be evaluated to ensure accuracy. Successful implementation will contribute to a healthier and more engaged workforce.        
 KEY OBJECTIVES          
-1)Develop a predictive model to identify burnout risk.  
+1)Develop a predictive model to identify burnout risk.   
     2)Analyze data to identify key burnout indicators.   
       3)Improve employee well-being and organizational performance.
 
